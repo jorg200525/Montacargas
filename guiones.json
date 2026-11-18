@@ -1,0 +1,236 @@
+[
+  {
+    "n": 1,
+    "titulo": "Manejo seguro de montacargas",
+    "resumen": "Portada. Capacitación teórica de 8 horas: 6 teóricas y 2 prácticas.",
+    "guion": "Bienvenidos a la capacitación teórica de Manejo Seguro de Montacargas. Soy el Profesor Jorge y los acompaño durante este curso. El curso dura ocho horas: seis horas de teoría y dos horas de práctica. Al final habrá una evaluación para conocer cuánto hemos comprendido. Empecemos."
+  },
+  {
+    "n": 2,
+    "titulo": "Índice del curso",
+    "resumen": "Siete bloques: introducción, procedimientos, inspección, operador, operación segura, maniobras y recomendaciones finales.",
+    "guion": "Este es el índice de la clase. Vemos siete bloques. Uno, la introducción: objetivo, definición del montacargas y sus partes. Dos, procedimientos: recarga de combustible, inspección de extintores y manual de operación. Tres, la inspección operacional con su registro. Cuatro, el operador, sus cualidades y responsabilidades. Cinco, operación con seguridad: instrumentos de control, principios de manejo defensivo y dispositivos de seguridad. Seis, maniobras: poner en marcha, conducir con y sin carga, obstáculos y desplazamientos. Y siete, las recomendaciones finales y reglas de seguridad."
+  },
+  {
+    "n": 3,
+    "titulo": "1. Introducción y objetivo",
+    "resumen": "Objetivo: que el personal conozca y aplique las normas seguras para mover cargas y prevenir lesiones y daños.",
+    "guion": "Empezamos con la introducción. Los participantes serán capacitados para maniobrar el montacargas con seguridad, conociendo el manual de operación y las normas de manejo del equipo. Esto les permitirá aprobar los exámenes teóricos y prácticos y obtener la certificación. El objetivo es asegurar que todo el personal que maneja cargas conozca, entienda y ponga en práctica las normas seguras, para prevenir lesiones a las personas y daños en los equipos, la carga y las instalaciones. En resumen: protegerte a ti y a los demás de accidentes, formar hábitos de trabajo seguro, que el entrenamiento mejore tu producción y reducir reparaciones en el equipo."
+  },
+  {
+    "n": 4,
+    "titulo": "Definición del montacargas y diferencias con un automóvil",
+    "resumen": "Equipo mecánico eléctrico o de combustión; tiene límite de carga; centro de gravedad dinámico; dirección en ruedas traseras.",
+    "guion": "El montacargas es un equipo mecánico que se usa para mover suministros, materiales o productos terminados, accionado por un motor eléctrico o de combustión interna. Está diseñado para levantar pesos hasta cierto límite. La sobrecarga puede dañar el equipo o, peor aún, hacerte perder el control y provocar graves accidentes. Ahora comparemos con un automóvil. En el automóvil, las ruedas delanteras guían la dirección; en el montacargas, la dirección la dan las ruedas traseras. Un auto promedio pesa unas tres mil libras; el montacargas pesa más de cinco mil. El auto transporta personas; el montacargas transporta y apila carga. En el auto frenan las cuatro ruedas; en el montacargas solo dos ruedas tienen frenos. El auto tiene alta visibilidad; en el montacargas la visibilidad es limitada. Y el centro de gravedad del auto es fijo, mientras que el del montacargas es dinámico."
+  },
+  {
+    "n": 5,
+    "titulo": "Partes principales: partes externas",
+    "resumen": "Mástil, cilindros, cadenas, mangueras, horquillas, timón, circulina, techo protector, asiento, contrapeso, llantas, capot.",
+    "guion": "Veamos las partes externas del montacargas. En la parte delantera tenemos el mástil, los cilindros hidráulicos de elevación, la parrilla de apoyo, las cadenas de elevación, las mangueras hidráulicas y las horquillas. También está el cilindro hidráulico de inclinación. En la zona del operador encontramos el timón, la circulina, el techo protector y el asiento. En la parte trasera y lateral están la placa de capacidad de carga, el contrapeso y el capot. Y por último, la llanta motriz y la llanta directriz. Conocer cada parte te ayuda a inspeccionar mejor el equipo."
+  },
+  {
+    "n": 6,
+    "titulo": "Partes principales: partes internas",
+    "resumen": "Puesto del operador: claxon, perilla, panel de visualización, freno de servicio, acelerador, pedal de marcha lenta y mandos hidráulicos.",
+    "guion": "Ahora las partes internas, es decir, el puesto de conducción. Aquí identificamos el claxon, la perilla del timón, el timón, el panel de visualización, el freno de servicio, el acelerador, el pedal de marcha lenta y los mandos hidráulicos. Fíjate bien en su ubicación, porque en la operación debes usarlos sin mirar y con total control."
+  },
+  {
+    "n": 7,
+    "titulo": "2. Procedimientos: reabastecimiento de GLP (pasos 1 al 9)",
+    "resumen": "Cambio del balón de GLP: estacionar, cerrar válvula, desconectar, retirar, verificar e inspeccionar el tanque de repuesto y sujetarlo.",
+    "guion": "Entramos al bloque de procedimientos. Veamos cómo se reabastece o cambia el tanque de gas licuado de petróleo, GLP, estándar. Paso uno: estaciona el montacargas en terreno nivelado, con el freno de mano aplicado, la transmisión en neutra y la horquilla bajada. Paso dos: cierra la válvula de combustible del tanque, deja el motor en marcha hasta que se detenga y luego apaga el interruptor de arranque. Paso tres: desconecta la línea de suministro de combustible. Paso cuatro: afloja las abrazaderas, quita la clavija y extrae el tanque. Paso cinco: verifica que el tanque de repuesto sea del tipo correcto. Paso seis: inspecciónalo para detectar abolladuras, arañazos o ranuras, y fugas en las válvulas o conexiones. Paso siete: verifica que no haya escombros en la válvula de seguridad y que las válvulas y el medidor de nivel no estén dañados. Paso ocho: inspecciona los acopladores por deterioro, daños o ausencia de juntas flexibles. Y paso nueve: sujeta el tanque de manera segura con las abrazaderas."
+  },
+  {
+    "n": 8,
+    "titulo": "Reabastecimiento de GLP (pasos 10 al 12) y nota importante",
+    "resumen": "Conectar, abrir la válvula lentamente, revisar fugas con agua y jabón. Montar bien el tanque.",
+    "guion": "Continuamos. Paso diez: conecta la línea de suministro de combustible. Paso once: abre la válvula de combustible con un giro lento en sentido contrario a las manecillas del reloj. Si la abres muy rápido, una válvula de retención cortará la alimentación. Si eso ocurre, cierra la válvula por completo, espera cinco segundos y vuelve a abrirla muy lentamente. Paso doce: inspecciona las líneas de combustible y los accesorios con una solución de agua con jabón, después de llenar el tanque o cuando busques fugas. Nota importante: monta correctamente el tanque. Usa los orificios de la abrazadera para el montaje horizontal y la ranura del anillo de pie para el montaje vertical, para asegurar el consumo completo del combustible. Y recuerda abrir lentamente la válvula para que la presión de la manguera y del tanque se igualen; de lo contrario, la válvula se cerrará."
+  },
+  {
+    "n": 9,
+    "titulo": "Inspección de extintores",
+    "resumen": "Usar extintor de polvo químico seco o CO2. Nunca agua sobre el fuego; sí enfriar el tanque de GLP con agua.",
+    "guion": "Hablemos de los extintores. Ante un fuego en el montacargas debes usar un extintor de producto químico seco, es decir polvo, o de dióxido de carbono. Nunca uses agua para apagar el fuego. Eso sí, cuando sea posible, vierte grandes cantidades de agua sobre el tanque de GLP para enfriarlo mientras se extingue el incendio. Y antes de operar, revisa que el extintor del equipo esté en buen estado. Pregúntate: ¿sabes cómo inspeccionar un extintor?"
+  },
+  {
+    "n": 10,
+    "titulo": "Uso del manual de operación",
+    "resumen": "Conocer el montacargas y sus accesorios estudiando el manual de operación, inspección y mantenimiento.",
+    "guion": "Todo operador debe conocer su montacargas y los accesorios correspondientes. Estudia las instrucciones de operación, inspección y mantenimiento que están en el manual de operación de tu equipo. Ahí está la información exacta del fabricante, y es tu primera fuente ante cualquier duda."
+  },
+  {
+    "n": 11,
+    "titulo": "3. Inspección operacional: recomendaciones generales",
+    "resumen": "Se inspecciona a diario: al inicio de cada jornada, en los 3 turnos y ante algún evento. Seguir un orden y el check list.",
+    "guion": "Pasamos a la inspección operacional. La inspección se realiza diariamente: al inicio de cada jornada, en los tres turnos y en caso de que haya ocurrido algún evento. Los puntos importantes son tres. Mantén siempre un punto referencial de inicio, ya sea de derecha a izquierda o de izquierda a derecha. Coordina previamente la rutina que vas a seguir. Y sigue el orden indicado en el check list del equipo."
+  },
+  {
+    "n": 12,
+    "titulo": "¿Por qué inspeccionar? Nivel de aceite de motor",
+    "resumen": "Cerca del 6% de los accidentes por mantenimiento deficiente. La inspección reduce costos y aumenta seguridad y productividad.",
+    "guion": "¿Por qué debo realizar una inspección preoperacional? Porque alrededor del seis por ciento de los accidentes con montacargas se debe a vehículos con mantenimiento deficiente. La inspección reduce el tiempo improductivo, aumenta la productividad, reduce el costo, aumenta la seguridad y mejora el cuidado del equipo. Y ahora una pregunta: ¿sabes cómo leer el nivel del aceite de motor? Observa los ejemplos de la lámina."
+  },
+  {
+    "n": 13,
+    "titulo": "Inspección preoperacional, parte 1: fluidos (puntos 1 al 6)",
+    "resumen": "Aceite hidráulico, líquido de frenos, aceite de motor, transmisión y refrigerante. Sin frenos o sin aceite mínimo: no operar.",
+    "guion": "Esta es la primera parte de la inspección preoperacional. Levanta el capó debajo del asiento para acceder al motor y revisa los niveles del aceite hidráulico, el líquido de frenos y el aceite del motor. El aceite de motor se cambia en intervalos de doscientas cincuenta a quinientas horas, según el tipo de aceite. Si el nivel del aceite de transmisión está por debajo del mínimo, no operes el montacargas. Si observas una fuga de líquido de frenos o sientes que no se detiene a tiempo, repórtalo: nunca operes el montacargas sin frenos. Revisa el aceite hidráulico, que tiene indicador de nivel máximo y mínimo, y repórtalo de inmediato si está en el mínimo. Y revisa el nivel del refrigerante en el radiador."
+  },
+  {
+    "n": 14,
+    "titulo": "Inspección preoperacional, parte 2: batería, filtro y tablero (7 al 9)",
+    "resumen": "Bornes y electrolito de la batería, filtro de aire diario, tablero, asiento, cabina y fugas.",
+    "guion": "Seguimos. Punto siete: revisa el estado de los bornes, los cables y el estado físico de la batería, buscando golpes o grietas. Revisa el nivel de electrolito y rellena con agua destilada si es necesario. Punto ocho: inspecciona a diario el filtro de aire, y reemplázalo si está roto o dañado. Punto nueve: inspecciona el tablero de control, el asiento, la cabina, las fugas en el sistema hidráulico y los demás fluidos."
+  },
+  {
+    "n": 15,
+    "titulo": "Inspección preoperacional, parte 3: horquillas, llantas y accesorios (10 al 14)",
+    "resumen": "Horquillas sin grietas ni desgaste; llantas; protección superior; respaldo de carga; operatividad de pedales, luces, claxon y cinturón.",
+    "guion": "Última parte de la inspección. Punto diez: las horquillas. Son elementos resistentes que se introducen bajo la carga; se deben introducir como mínimo dos tercios de la longitud de la carga. Verifica que no tengan grietas en la superficie, que la hoja o shank estén rectos, que el ángulo entre la hoja y el shank sea recto, que no haya altura desnivelada en las puntas y que no estén desgastadas. Punto once: revisa las llantas, su cocada y, si aplica, la presión de aire. Punto doce: inspecciona la protección superior. Ofrece protección razonable contra la caída de objetos, pero no contra todos los golpes, y nunca se debe operar sin ella. Punto trece: el respaldo de cargas, que evita que partes sueltas caigan; debe ser lo bastante alto y estar en buenas condiciones. Punto catorce: inspecciona la operatividad del equipo: palancas hidráulicas, pedales de acelerador, freno y marcha lenta, freno de parqueo, circulina, claxon, cinturón, luces, dirección, asiento y extintor."
+  },
+  {
+    "n": 16,
+    "titulo": "Registro de inspección",
+    "resumen": "El formato se llena durante la inspección; fallas prioritarias impiden usar el equipo. En el CDA PMA Chimbote se usa check list digital.",
+    "guion": "El registro de inspección debe llenarse mientras vas realizando la inspección. Si encuentras fallas, regístralas e informa a tu jefe inmediato para su atención. Si se trata de fallas prioritarias, no se debe utilizar el montacargas hasta que sea reparado. En el CDA PMA Chimbote se usa el check list digital."
+  },
+  {
+    "n": 17,
+    "titulo": "4. El operador: requerimientos y responsabilidades",
+    "resumen": "Solo personal entrenado y autorizado; apto visual, auditiva, física y mentalmente; reporta condiciones inseguras.",
+    "guion": "Hablemos del operador. Como requisito, solo el personal entrenado y autorizado puede operar el montacargas. Los operadores deben estar calificados en capacidad visual, auditiva, física y mental para operar con seguridad. Sobre sus responsabilidades: la operación segura del equipo es responsabilidad del operador. Debe desarrollar hábitos de trabajo seguros y ser consciente de las condiciones peligrosas para protegerse a sí mismo, a otras personas, al equipo y a los materiales. Debe conocer todos los controles e instrumentos antes de operar, haber leído el manual del montacargas que va a usar, cumplir las normas y prácticas de seguridad, conocer las condiciones inusuales que requieren precauciones adicionales y reportar toda condición insegura que detecte."
+  },
+  {
+    "n": 18,
+    "titulo": "5. Operación con seguridad: tablero de mando (símbolos)",
+    "resumen": "Reconocer los símbolos del tablero: motor, temperatura, aceite, transmisión, freno, combustible, horómetro, etc.",
+    "guion": "Entramos al bloque de operación con seguridad, con los instrumentos de control operacional. Este es el tablero de mando. Te pregunto: ¿reconoces estos indicadores? En la lámina ves símbolos para motor, temperatura, refrigerante, aceite, transmisión, flujo, presión, aire, sistema hidráulico, nivel, filtro y carga del alternador. También símbolos de desconectado, conectado, prueba, freno, destrabado, trabado, combustible y horómetro. Tómate un momento para observarlos."
+  },
+  {
+    "n": 19,
+    "titulo": "Ejercicio: reconocer los indicadores del tablero",
+    "resumen": "Ejercicio: nombrar 8 indicadores, sus causas de activación y la acción correctiva.",
+    "guion": "Ahora un ejercicio. Observa los indicadores de la lámina. El ejercicio es nombrar de forma correcta los ocho indicadores, y además decir cuáles son las causas para que se activen y cuál sería la acción correctiva. Piénsalo o coméntalo con el grupo antes de pasar a la siguiente lámina."
+  },
+  {
+    "n": 20,
+    "titulo": "Tablero de mando: solución del ejercicio",
+    "resumen": "Lista de 11 indicadores: temperatura, aceite de transmisión, filtro de aire, freno, presión de aceite, alternador, arranque en frío, filtro de combustible, revisión de motor, refrigerante, combustible y horómetro.",
+    "guion": "Veamos si los reconociste. Uno: indicador de temperatura del líquido refrigerante del motor. Dos: luz de advertencia de temperatura de aceite de transmisión. Tres: luz de servicio del filtro de aire, opcional. Cuatro: luz de advertencia del nivel de líquido de freno. Cinco: luz de advertencia de la presión de aceite de motor. Seis: luz de advertencia de la carga del alternador. Siete: indicador de arranque en frío, en motores diésel. Ocho: luz de servicio del filtro de combustible. Nueve: luz de revisión de motor. Diez: luz de advertencia del nivel de líquido refrigerante, opcional. Once: medidor de combustible. Y doce: medidor de horas."
+  },
+  {
+    "n": 21,
+    "titulo": "Principios de operación segura y manejo defensivo (1)",
+    "resumen": "Girar el tronco al retroceder; 3 puntos de apoyo; check list diario; no sobrepasar capacidad; cinturón siempre; en volcadura no saltar.",
+    "guion": "Veamos los principios de operación con seguridad y manejo defensivo. Durante el retroceso, gira el tronco y dirige tu mirada en la dirección del desplazamiento. Utiliza los tres puntos de apoyo para subir y bajar. Realiza tu check list de preuso diariamente. No sobrepases la capacidad de carga del montacargas. Utiliza siempre tu cinturón, aunque sean tramos cortos. Y en caso de volcadura, posiciona bien los pies y agarra fuerte el timón; no intentes saltar ni salir."
+  },
+  {
+    "n": 22,
+    "titulo": "Principios de operación segura y manejo defensivo (2)",
+    "resumen": "Atento en cruces con bocina; reportar fugas y huecos; nadie bajo horquillas; no desplazarse con horquilla elevada.",
+    "guion": "Continuamos con los principios. Mantente atento en todo momento; en los cruces baja la velocidad y toca la bocina. Si encontraste desperfectos o fugas de líquidos, no operes y repórtalo. No transites por zonas con agujeros y reporta la condición insegura. Nunca permitas que alguien camine o permanezca debajo de las horquillas elevadas, lleven o no carga. No te desplaces con la horquilla elevada, ni con carga ni sin ella."
+  },
+  {
+    "n": 23,
+    "titulo": "Principios de operación segura y manejo defensivo (3)",
+    "resumen": "Prohibido llevar personas; carga cuesta arriba en pendientes; peatones a 5 m; visión clara; usar bocina.",
+    "guion": "Más principios. Está prohibido llevar a otras personas en el montacargas. Si conduces en una pendiente, debes mantener la carga en el lado cuesta arriba. El personal debe mantener una distancia mínima de cinco metros; en su defecto, detente. La carga no debe obstaculizar tu visión: mantén una visión clara de la ruta. Y alerta siempre tu presencia utilizando la bocina."
+  },
+  {
+    "n": 24,
+    "titulo": "Principios de operación segura y manejo defensivo (4)",
+    "resumen": "Colocar bien las cuchillas; superficie resistente; reducir la velocidad al girar.",
+    "guion": "Último grupo de este tema. Las cuchillas deben colocarse de forma correcta, porque de lo contrario la carga puede caer. La superficie debe ser lo suficientemente fuerte para soportar el peso del montacargas y de la carga. Y disminuye la velocidad para girar, para evitar la caída del producto."
+  },
+  {
+    "n": 25,
+    "titulo": "Manejo de cargas suspendidas y dispositivos de seguridad",
+    "resumen": "Cargas suspendidas: capacidad del fabricante, levantar vertical, lo más bajo posible, maniobras lentas. Dispositivos: cinturón, bocina, alarma, extintor, espejos, luces.",
+    "guion": "Sobre el manejo de cargas suspendidas: no excedas la capacidad máxima del fabricante, según lo equipado para manejar cargas suspendidas. Levanta la carga de forma vertical, no la arrastres. Hazlo lo más bajo posible y con maniobras lentas. Ahora la evaluación de los dispositivos de seguridad. Debes verificar los cinturones de seguridad, las bocinas, las alarmas de retroceso, el extintor, los espejos, las luces led delimitantes de área, las luces de advertencia intermitentes, y las señales direccionales y luces de freno."
+  },
+  {
+    "n": 26,
+    "titulo": "6. Maniobras: procedimiento para poner en marcha",
+    "resumen": "Freno de mano, palanca de dirección en NEUTRA, motor no arranca si no está en neutra, cinturón puesto.",
+    "guion": "Pasamos al bloque de maniobras. Para poner en marcha: tira de la palanca del freno de mano. Asegúrate de que la palanca de dirección esté en la posición neutra; el motor no arrancará a menos que esté en neutra. Si el motor se ahoga, lleva la palanca de dirección a neutra, gira la llave a la posición apagado, off, y luego a la posición arrancar, start. Y no olvides ajustarte el cinturón de seguridad antes de operar el montacargas."
+  },
+  {
+    "n": 27,
+    "titulo": "Arranque del motor de gas propano líquido",
+    "resumen": "Abrir válvula lentamente, arrancar, no acelerar si no arranca, calentar 5 minutos en ralentí y vigilar indicadores.",
+    "guion": "Para arrancar el motor de gas propano líquido: abre la válvula de combustible del tanque con un giro lento en sentido contrario a las manecillas del reloj y mira el indicador de gas, si lo tiene. Gira la llave a la posición arrancar, start, y suéltala cuando el motor arranque. Si el motor no arranca, no oprimas el acelerador; gira la llave a apagado y repite el paso. Luego de arrancar, verifica con frecuencia el monitor y los indicadores durante la operación. Pon el motor en marcha a velocidad de ralentí, sin carga alguna, durante unos cinco minutos, y durante el calentamiento verifica el funcionamiento de los sistemas."
+  },
+  {
+    "n": 28,
+    "titulo": "Desplazamiento del montacargas sin carga",
+    "resumen": "Horquilla a 10-15 cm del suelo, mástil hacia atrás, mirar y tocar bocina, pasos para iniciar el movimiento.",
+    "guion": "Desplazamiento sin carga. Usa la palanca de elevación para subir la horquilla a una altura segura de viaje, de diez a quince centímetros del suelo. Usa la palanca de inclinación para inclinar el mástil completamente hacia atrás. Fíjate alrededor y detrás del montacargas y suena la bocina antes de moverte. Luego: uno, oprime completamente el pedal de marcha lenta. Dos, lleva la palanca de dirección a marcha adelante o marcha atrás. Tres, suelta el freno de mano. Cuatro, oprime gradualmente el acelerador mientras sueltas el pedal de marcha lenta."
+  },
+  {
+    "n": 29,
+    "titulo": "Pedal de marcha lenta y aproximación a la paleta",
+    "resumen": "El pedal permite avanzar muy lento con alto rpm; a fondo pone neutra y frena. Pasos para insertar la horquilla en la paleta.",
+    "guion": "El pedal de marcha lenta permite mover lentamente el montacargas manteniendo la velocidad del motor. Aplicado a fondo, lleva la transmisión a neutra y acciona los frenos de servicio. Su finalidad es dar un control preciso a velocidad muy lenta con alto régimen del motor. Úsalo al acercarte a la carga y al cargar o descargar. Los pasos son: uno, detente frente a la plataforma, bloquea el freno de mano, lleva la palanca a neutra, coloca el mástil vertical y eleva la horquilla a la altura de las aberturas de la paleta. Dos, oprime completamente el pedal, lleva la dirección a marcha adelante y suelta el freno de mano. Tres, oprime suavemente el acelerador. Cuatro, retira lentamente el pie izquierdo del pedal y el montacargas avanzará despacio. Cinco, inserta lentamente la horquilla sin golpear la paleta. Seis, detente cuando la base de la horquilla apenas toque la paleta."
+  },
+  {
+    "n": 30,
+    "titulo": "Desplazamiento con carga: peligros y recomendaciones",
+    "resumen": "Peligros: carga descentrada, sobrecarga, carga dañada o suelta. Asegurar y centrar la carga con lo pesado hacia las ruedas delanteras.",
+    "guion": "Desplazamiento con carga. Los peligros son tres. Levantar fuera del centro de carga puede provocar volcaduras o la caída de la carga. La sobrecarga puede provocar volcadura o caída de la carga. Y las cargas dañadas o sueltas. Como recomendaciones: asegura la carga para que esté colocada correctamente y estable, y no lleves mercancía dañada a menos que antes se haya envuelto y asegurado. Centra la carga lo más cerca posible, y distribuye la parte más pesada lo más cerca posible de las ruedas delanteras del montacargas."
+  },
+  {
+    "n": 31,
+    "titulo": "Posición de viaje segura y toma de la carga",
+    "resumen": "Horquilla a 15-20 cm del suelo; mástil inclinado atrás; acercarse a 20-30 cm, insertar, elevar unos 10 cm.",
+    "guion": "La posición de viaje segura es mantener la horquilla o la carga a una altura de quince a veinte centímetros del suelo. Inclina el mástil hacia atrás más de seis grados cuando el montacargas está vacío, y completamente hacia atrás si está cargado. Para tomar la carga: uno, avanza lentamente y detente a veinte o treinta centímetros de la carga, cuadrando el montacargas y con la horquilla a la altura correcta. Dos, con la dirección en neutro, inclina el mástil a la posición vertical. Tres, con marcha adelante, conduce lentamente e inserta la horquilla hasta que quede completamente bajo la carga. Cuatro, con neutro, eleva cuidadosamente la carga a unos diez centímetros de otros materiales y devuelve la palanca de elevación a neutra."
+  },
+  {
+    "n": 32,
+    "titulo": "Procedimientos para viajar con la carga y comenzar la descarga",
+    "resumen": "Centrar, inclinar mástil atrás, retroceder 20-30 cm, bajar a 15-20 cm y conducir. Descarga: detenerse, subir 10-15 cm sobre la pila.",
+    "guion": "Para viajar con la carga: uno, centra la carga en las horquillas e inclina el mástil completamente hacia atrás. Dos, con marcha atrás, fíjate detrás de ti. Tres, con neutra, aleja lentamente el montacargas de veinte a treinta centímetros de la pila y deténlo; baja la carga a quince o veinte centímetros del suelo. Cuatro, con marcha adelante, verifica que la zona esté despejada y conduce a la zona de trabajo. Ahora el procedimiento de descarga. Uno, detén el montacargas a veinte o treinta centímetros de la zona de descarga. Dos, en neutra, sube la carga de diez a quince centímetros sobre la pila. Tres, en marcha adelante, conduce lentamente para colocar la carga apenas encima de la pila. Cuatro, en neutra, inclina el mástil hacia adelante a la posición vertical."
+  },
+  {
+    "n": 33,
+    "titulo": "Terminar la descarga y estacionar el montacargas",
+    "resumen": "Bajar carga, retroceder, bajar horquilla a 15-20 cm. Estacionar: neutra, freno de mano, puntas al suelo, apagar, sacar llave, bloquear ruedas.",
+    "guion": "Continuamos la descarga. Cinco, baja cuidadosamente la carga sobre la pila. Seis, baja las horquillas lo suficiente para destrabarlas. Siete, en marcha atrás, fíjate detrás de ti y retrocede cuidadosamente alejándote de la carga. Ocho, una vez destrabadas las horquillas, detén el montacargas. Nueve, baja la horquilla a quince o veinte centímetros del suelo. Diez, inclina el mástil hacia atrás, seis grados o más. Once, fíjate alrededor para comprobar que no hay riesgos. Doce, maneja hasta la siguiente posición. Para estacionar: uno, mueve la palanca de dirección a neutra y la perilla de bloqueo a trabada. Dos, tira del freno de mano completamente. Tres, inclina el mástil un poquito hacia adelante y baja las horquillas hasta que las puntas toquen el suelo. Cuatro, gira la llave a apagado y, al salir, asegúrate de quitar la llave. Cinco, bloquea las ruedas. Y seis, coloca la llave en el estante de llaves."
+  },
+  {
+    "n": 34,
+    "titulo": "Desplazamientos, obstáculos y advertencias",
+    "resumen": "No pasar a otro montacargas en puntos ciegos; cuidado en pendientes; verificar espacio libre vertical.",
+    "guion": "Veamos tres advertencias sobre desplazamientos y obstáculos. Primera: no pases a otro montacargas que viaje en el mismo sentido, en intersecciones, puntos ciegos u otras zonas peligrosas. Segunda: ten sumo cuidado al subir o bajar una pendiente pronunciada; reduce el riesgo de que las puntas de la horquilla o el fondo de la paleta toquen el suelo. Tercera: verifica siempre que tengas suficiente espacio libre vertical. El mástil y la cabina pueden golpear tuberías, vigas u otras obstrucciones, y hay que fijarse si hay líneas de energía."
+  },
+  {
+    "n": 35,
+    "titulo": "7. Recomendaciones finales: seis pilares del operador",
+    "resumen": "Bloqueo de unidades, operador autorizado, seguridad en patio, retroceso seguro, estacionamiento seguro y EPP del operador.",
+    "guion": "Llegamos a las recomendaciones finales para el operador de montacargas. Uno, bloqueo de unidades: verifica la colocación de tacos, conos y el retiro de llaves antes de iniciar la carga y descarga de la unidad. Dos, operador autorizado: solo usa el equipo el trabajador designado por la empresa que cuente con la certificación interna. Tres, seguridad en patio: respeta el flujo de circulación establecido; si hay peatones, repórtalo y dirígelos a la zona segura. Cuatro, retroceso seguro: gira el tronco y mira por encima del hombro, en la dirección a donde vas. Cinco, estacionamiento seguro: estaciónate en la zona identificada y señalada, con las horquillas en dirección contraria al flujo de tránsito. Seis, seguridad con operador: desde el inicio hasta el término de la jornada usa el cinturón de seguridad, casco, lentes y guantes de seguridad."
+  },
+  {
+    "n": 36,
+    "titulo": "Reglas de seguridad (1)",
+    "resumen": "Nadie bajo cargas u horquillas; no usar como escalera; cuidado con peatones; nadie viaja sobre la máquina; EPP; no bloquear equipos de emergencia.",
+    "guion": "Estas son las reglas de seguridad. Nunca permitas que nadie camine bajo las cargas o las horquillas. No uses la máquina como una escalera. Ten cuidado con los peatones. No permitas que nadie viaje sobre o al costado de la máquina. Usa el equipo de seguridad apropiado cuando sea necesario. No bloquees el acceso a los equipos de seguridad o de emergencia. No comas, bebas ni fumes durante la actividad de trabajo. Y no hagas bromas en la conducción."
+  },
+  {
+    "n": 37,
+    "titulo": "Reglas de seguridad (2): control y visibilidad",
+    "resumen": "No manejar hacia una persona frente a un objeto fijo; control, vías definidas, visión clara; si la carga tapa, ir en reversa; bocina en pasillos.",
+    "guion": "Más reglas. Nunca manejes hacia una persona de pie frente a un objeto fijo. Mantén bajo control el montacargas en todo momento. Usa adecuadamente las vías de circulación definidas. Mantén una visión clara de la ruta y siempre mira en la dirección de viaje. Si la carga bloquea tu visión, viaja en sentido inverso. Reduce la velocidad y advierte con la bocina al cruzar pasillos y lugares con visión obstruida. Mantén ambas manos en el volante siempre que sea posible, y los brazos y las piernas dentro de la cabina. Viaja a una velocidad que te permita detenerte con seguridad; iniciar y detener debe ser gradual."
+  },
+  {
+    "n": 38,
+    "titulo": "Reglas de seguridad (3): cruces y peatones",
+    "resumen": "Atención a cruces de peatones, retirar objetos, montacargas encendido al bajar carga, parar en intersecciones y esquinas ciegas.",
+    "guion": "Últimas reglas. Está alerta a los puntos de cruce de peatones. Retira objetos de la zona de tránsito de la unidad. Ten presente que el montacargas debe estar encendido cuando bajes una carga. Y detente en las intersecciones, esquinas ciegas o entradas utilizadas por otros vehículos."
+  },
+  {
+    "n": 39,
+    "titulo": "Pasemos a la evaluación",
+    "resumen": "Cierre: evaluación teórica y práctica; nota mínima aprobatoria 15 sobre 20.",
+    "guion": "Hemos terminado la parte teórica. Pasemos a la evaluación. Recuerda que la calificación es sobre veinte puntos y la nota mínima aprobatoria es quince. El examen teórico pesa cuarenta y cinco por ciento y el examen práctico, cincuenta y cinco por ciento. Si apruebas, recibirás el certificado interno de montacarguista. Mucho éxito, y recuerda: protegerte a ti y a los demás es lo primero. Cuando quieras, hazme tus preguntas."
+  }
+]
